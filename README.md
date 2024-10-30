@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Luis Sebastian
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me luissebastiandiaz05@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once spent an entire weekend debugging a code, only to realize the issue was a missing semicolon. 😂
