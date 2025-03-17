@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Sebastian
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in AIG, AI, Machine Learning
 - 🌱 I’m currently learning Linux
 - 📫 How to reach me luissebastiandiaz05@gmail.com
 - 😄 Pronouns: he/him
